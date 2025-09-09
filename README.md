@@ -1,6 +1,6 @@
 # CSES Problem Set – Python Solutions
 
-This repository contains clean and efficient Python 3 solutions for the CSES Problem Set.
+This repo contains clean and efficient Python 3 solutions for the CSES Problem Set.
 
 Each solution follows:
 
