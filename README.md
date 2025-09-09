@@ -14,3 +14,5 @@ Each solution follows:
 - [Weird Algorithm](Introductory_Set/weirdAlgorithm.py)
 - [Missing Number](Introductory_Set/missingNumber.py)
 - [Repetitions](Introductory_Set/repetition.py)
+- [Increasing Array](Introductory_Set/increasingArray.py)
+- [Permutation](Introductory_Set/permutation.py)
