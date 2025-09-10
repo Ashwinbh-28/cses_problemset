@@ -16,3 +16,4 @@ Each solution follows:
 - [Repetitions](Introductory_Set/repetition.py)
 - [Increasing Array](Introductory_Set/increasingArray.py)
 - [Permutation](Introductory_Set/permutation.py)
+- [Number Spiral](Introductory_Set/numberSpiral.py)
