@@ -18,3 +18,4 @@ Each solution follows:
 - [Permutation](Introductory_Set/permutation.py)
 - [Number Spiral](Introductory_Set/numberSpiral.py)
 - [Two Knights](Introductory_Set/twoKnights.py)
+- [Two Sets](Introductory_Set/twoSet.py)
